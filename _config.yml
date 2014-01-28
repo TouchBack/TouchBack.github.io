@@ -1,0 +1,5 @@
+name: "NaturalTouch"
+tagline: "intuitive interaction"
+markdown: redcarpet
+pygments: true
+permalink: pretty

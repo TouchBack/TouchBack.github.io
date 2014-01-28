@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Welcome to NaturalTouch"
+date:   2014-01-27
+---
+
+Welcome to NaturalTouch's development blog! This is where we will document progress on the NaturalTouch haptic feedback glove.
+
+Feel free to peruse out our [Github repository][github] - we're open source!
+
+[github]:    https://github.com/NaturalTouch
