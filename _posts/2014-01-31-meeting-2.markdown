@@ -4,10 +4,10 @@ title: January 31st Meeting
 date: 2014-01-31
 ---
 
-Went over goals for the weekend, planned out what we want to have before out meeting on Monday!
+Went over goals for the weekend, planned out what we want to have before our meeting on Monday!
 
-Elizabeth and I are going to learn about Arduino coding, how it can get input form the computer, and creating some diagrams to dispaly. 
+Elizabeth and I are going to learn about Arduino coding, how it can get input from the computer, and creating some diagrams to display. 
 
-Andy and Alex are creating diagrams, demonstrating Leap API undo, and thinking about communication protocol for the Leap Motion.
+Andy and Alex are creating diagrams, demonstrating the Leap Motion API, and thinking about specifying communications protocol for the haptic glove.
 
 -- Justin
