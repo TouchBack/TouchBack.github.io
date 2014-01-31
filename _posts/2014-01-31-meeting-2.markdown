@@ -8,6 +8,6 @@ Went over goals for the weekend, planned out what we want to have before our mee
 
 Elizabeth and I are going to learn about Arduino coding, how it can get input from the computer, and creating some diagrams to display. 
 
-Andy and Alex are creating diagrams, demonstrating the Leap Motion API, and thinking about specifying communications protocol for the haptic glove.
+Andy and Alex are creating diagrams, demonstrating the Leap Motion API, and brainstorming a communications protocol for the haptic glove.
 
 -- Justin
