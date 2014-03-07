@@ -8,4 +8,4 @@ The Python software now receives the position of a hand from the Leap Motion, ca
 
 We had run into a memory leak issue when uses the String class in the Arduino. Apparently, Arduino Strings have a known memory leak issue, so that was causing our Arduino to freeze and stop accepting input. After switching to character arrays, the issue was fixed. 
 
-- Justin
+\- Justin
