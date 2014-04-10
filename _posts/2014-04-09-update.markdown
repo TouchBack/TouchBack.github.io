@@ -1,0 +1,21 @@
+---
+layout: post
+date: 2014-04-09
+title: Work Session Update
+---
+
+Alex--
+I have been developing the Leap in Windows, but have [finally] configured the SDK for Linux.  It was a bit finicky, Linux requires the newest LeapPython.so and libLeap.so (not required for OS X) from the LeapSDK.  Take note Linux developers!  When I push to the repository it will possibly break the OS X development environment, but I don't believe it will as LeapPython.so was updated and libLeap.so was only added.  I propose we only push the specific application files and .gitignore our operating system specific library files to make our repositories platform independent.
+
+Begun investigating multiple finger detection.  It is odd as the Leap remembers identifies as properties of the current frame of in relation to the previous frame.  Good resources to read on.
+* https://developer.leapmotion.com/documentation/java/devguide/Leap_Tracking.html
+* https://developer.leapmotion.com/documentation/python/api/Leap.Finger.html
+
+Andy--
+Installed VPython to visualize graphics but was terrible.
+Now trying to integrate PyOpenGL with the Leap Motion but is a greater challenge than initially expected.
+Working with GLUT but it abastracts OpenGL but it hijacks the main loop.  Restructuring code to run off of callbacks.
+* http://pyopengl.sourceforge.net/
+
+Elizabeth and Justin--
+Added second motor functionality to Arduino, but Arduino cannot process string inputs longer than 24 characters.  No idea why, investigating.
